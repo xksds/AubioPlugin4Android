@@ -6,7 +6,7 @@
 
 ### License
 
-Vamp4Android required features are based on or derives from projects below:
+AubioPlugin4Android required features are based on or derives from projects below:
 - GNU/GPL
   - [Aubio](https://aubio.org/vamp-aubio-plugins/)
 
